@@ -80,3 +80,4 @@ Fully responsive, interactive 3D portfolio built with React 18, Three.js/React T
 </div>
 
 <!-- Actively open to Software Engineer opportunities. -->
+<!-- Building in public. -->
