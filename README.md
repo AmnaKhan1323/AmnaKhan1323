@@ -78,3 +78,5 @@ Fully responsive, interactive 3D portfolio built with React 18, Three.js/React T
 📫 **Reach me at:** amnakhan1323690@gmail.com · [LinkedIn](https://linkedin.com/in/amna-khan-38843b204)
 
 </div>
+
+<!-- Actively open to Software Engineer opportunities. -->
