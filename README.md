@@ -52,9 +52,9 @@ Distributed cloud monitoring platform tracking **26 microservices** with real-ti
 Enterprise-grade AI platform with Retrieval-Augmented Generation enabling natural-language Q&A over documents with citation-backed answers — **94% accuracy**, runs entirely on a free/local LLM stack.
 `FastAPI` `Python` `Next.js` `Ollama` `ChromaDB` `PostgreSQL`
 
-### 🔄 [SyncBoard](https://github.com/AmnaKhan1323/syncboard) — Real-Time Collaborative Workspace
-Production-grade project management SaaS with live cursors, Kanban boards, and real-time team chat — handling **50+ concurrent connections** with <100ms latency.
-`Next.js` `TypeScript` `Prisma` `PostgreSQL` `Redis` `Socket.io`
+### 📚 [CodeRise](https://coderise-ten-lake.vercel.app) - Full-Stack Interview Prep Platform
+Free, all-in-one DSA interview-prep platform with **280+ curated problems** across 4 languages, sandboxed live code execution (JS/Python/Java/C++), timed contests with live leaderboards, and an AI-powered tutoring assistant - built solo, end-to-end.
+`Next.js 15` `TypeScript` `Prisma` `PostgreSQL` `Redis` `OpenAI API` `Judge0`
 
 ### 🌐 [3D Developer Portfolio](https://github.com/AmnaKhan1323/portfolio) — Interactive Portfolio
 Fully responsive, interactive 3D portfolio built with React 18, Three.js/React Three Fiber, and Framer Motion.
